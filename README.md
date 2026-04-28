@@ -1,4 +1,3 @@
-# LibraryManagementSystem
 # Library Management System (Java)
 
 ## Problem Statement
